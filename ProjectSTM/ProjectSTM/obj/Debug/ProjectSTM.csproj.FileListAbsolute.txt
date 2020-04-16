@@ -1,0 +1,10 @@
+C:\Users\Jacek\source\repos\ProjectSTM\ProjectSTM\bin\Debug\ProjectSTM.exe.config
+C:\Users\Jacek\source\repos\ProjectSTM\ProjectSTM\bin\Debug\ProjectSTM.exe
+C:\Users\Jacek\source\repos\ProjectSTM\ProjectSTM\bin\Debug\ProjectSTM.pdb
+C:\Users\Jacek\source\repos\ProjectSTM\ProjectSTM\obj\Debug\ProjectSTM.csprojAssemblyReference.cache
+C:\Users\Jacek\source\repos\ProjectSTM\ProjectSTM\obj\Debug\ProjectSTM.Form1.resources
+C:\Users\Jacek\source\repos\ProjectSTM\ProjectSTM\obj\Debug\ProjectSTM.Properties.Resources.resources
+C:\Users\Jacek\source\repos\ProjectSTM\ProjectSTM\obj\Debug\ProjectSTM.csproj.GenerateResource.cache
+C:\Users\Jacek\source\repos\ProjectSTM\ProjectSTM\obj\Debug\ProjectSTM.csproj.CoreCompileInputs.cache
+C:\Users\Jacek\source\repos\ProjectSTM\ProjectSTM\obj\Debug\ProjectSTM.exe
+C:\Users\Jacek\source\repos\ProjectSTM\ProjectSTM\obj\Debug\ProjectSTM.pdb
